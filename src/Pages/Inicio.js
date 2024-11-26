@@ -10,7 +10,7 @@ return(
 <div> 
     <div className="about">
     <h1>Bievenidos al Vinito 🍷</h1>
-    <p>I am just a wine enthusiast.</p> 
+    <p>Soy un aficionado</p> 
     <h2>You can see every wine that I open every week and my future purchases.</h2>
     </div>
 <section className='Winelist'>
