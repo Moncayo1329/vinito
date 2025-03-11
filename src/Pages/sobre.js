@@ -10,7 +10,9 @@ function About(){
     <div className="container mt-5 pb-5 text-center className=gradientTitle" style={{ color: '#000' }}>
   <h2>Sobre Vinito</h2>
   <img 
+  loading="lazy"
    className="coolImage"
+    decoding="async"
   src={vinitoImage} alt="Vinito" style={{  width: '100%', 
     maxWidth: '250px', 
     margin: '20px 0', 

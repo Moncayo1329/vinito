@@ -91,6 +91,6 @@ font-style: normal;
 /* En tu archivo CSS */
 /* En tu archivo CSS */
 h2 {
-  color: #0c3105; /* Verde menta */
+  color:rgb(19, 18, 18); /* Verde menta */
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
 }

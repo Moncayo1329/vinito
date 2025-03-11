@@ -10,8 +10,7 @@ return(
 <div> 
     <div className="about">
     <h1>Bievenidos al Vinito 🍷</h1>
-    <p>Soy un aficionado</p> 
-    <h2>You can see every wine that I open every week and my future purchases.</h2>
+    <h2>Puedes ver todos los vinos que abro cada semana y mis futuras compras.</h2>
     </div>
 <section className='Winelist'>
     {Wines.map((Inicio,index) => (
