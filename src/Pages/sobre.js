@@ -8,7 +8,7 @@ function About(){
 <div>
     <Menu />
     <div className="container mt-5 pb-5 text-center className=gradientTitle" style={{ color: '#000' }}>
-  <h2>Sobre Vinito</h2>
+  <h2>Sobre Vinito.</h2>
   <img 
   loading="lazy"
    className="coolImage"
