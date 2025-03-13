@@ -1,7 +1,7 @@
 import React from "react";
 import { Wines } from "../data/wines";
 import {Wine} from "../data/wine";
-import { WiLunarEclipse } from "react-icons/wi";
+
 
 
 
