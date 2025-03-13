@@ -1,4 +1,5 @@
 import React from "react"; 
+import ReactStarts from "react-rating-stars-component";
 
 function Wine(props){
 return(
@@ -8,6 +9,13 @@ return(
       <h3>{props.Title}</h3>
       <h4 style={{color:'#6a6e73' , fontSize: '0.75rem', 
     marginTop: '0.25rem'}}>{props.Description}</h4>
+  <ReactStarts 
+  count={5}
+  value={props.rating}
+  size={24}
+  activeColor="#ffd700"
+          edit={false} 
+          />
     <p>{props.Rate}</p>
     </article>
 

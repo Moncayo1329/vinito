@@ -1,6 +1,7 @@
 import React from "react";
 import { Wines } from "../data/wines";
 import {Wine} from "../data/wine";
+import { WiLunarEclipse } from "react-icons/wi";
 
 
 
@@ -19,7 +20,7 @@ return(
     img={Inicio.img}
     Title={Inicio.Title}
     Description={Inicio.Description} 
-    Rate={Inicio.Rate}
+   rating={Inicio.rating}
     
     />
 ))}

@@ -3,8 +3,8 @@ export const Wines = [
       id: '1',
       img: 'https://fernandoswinehouse.pt/media/catalog/product/cache/5a6b6beb9b9e10fef4c5a3e72a694c23/5/5/55.02379-01-quinta-dos-castelares-reserva-tinto-2019.png',
       Title: 'Quinta dos termos tinto', 
-      Description:'It was a gift, the price is 25 euros. Good wine for special occasions, a bit bitter. Not very sweet.',
-      Rate: ' Rate:6/10 '
+      Description:'Buen vino para ocasiones especiales, un poco amargo. No muy dulce.',
+      rating:"4"
     },
    
     {
