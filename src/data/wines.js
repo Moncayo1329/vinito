@@ -73,7 +73,7 @@ export const Wines = [
       ,
       {
       id:'9',
-      img: 'https://www.bodeboca.pt/sites/default/files/styles/mainbottle_normal/public/wines/2024-01/bot-cvne-roble-2018_0_0.jpg?itok=iAY6TNr3',
+      img: 'https://www.bodeboca.pt/sites/default/files/styles/mainbottle_normal/public/wines/2023-12/bot-meandro-do-vale-meao-2021.png?itok=1UpErvOU',
       Description:'De mis primeros Douro que probé y super recomendado.',
       Title:'Meandro do Vale Meão 2021' , 
       rating:'5'
