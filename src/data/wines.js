@@ -60,7 +60,24 @@ export const Wines = [
         Description:'Tienen una variedad de precios, desde 5 euros hacia adelante. Cuando era joven, me gustaba, pero ahora es demasiado dulce. Lo tomo un poco, solo como aperitivo, ya que ya no puedo beberlo.',
         rating:'3'
       },
-     
+
+      { 
+        id:'8',
+        img: 'https://www.bodeboca.pt/sites/default/files/styles/mainbottle_normal/public/wines/2024-01/bot-cvne-roble-2018_0_0.jpg?itok=iAY6TNr3',
+        Description:'Mi inicio con los tintos espanoles del origen Ribera del Duero',
+        Title:'Cvne Ribera del Duero Roble 2022' , 
+        rating:'4'
+
+
+      }
+      ,
+      {
+      id:'9',
+      img: 'https://www.bodeboca.pt/sites/default/files/styles/mainbottle_normal/public/wines/2024-01/bot-cvne-roble-2018_0_0.jpg?itok=iAY6TNr3',
+      Description:'De mis primeros Douro que probé y super recomendado.',
+      Title:'Meandro do Vale Meão 2021' , 
+      rating:'5'
+    }
     
     
     ]; 
