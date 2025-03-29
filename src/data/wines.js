@@ -3,7 +3,7 @@ export const Wines = [
       id: '1',
       img: 'https://fernandoswinehouse.pt/media/catalog/product/cache/5a6b6beb9b9e10fef4c5a3e72a694c23/5/5/55.02379-01-quinta-dos-castelares-reserva-tinto-2019.png',
       Title: 'Quinta dos termos tinto', 
-      Description:'Buen vino para ocasiones especiales, un poco amargo. No muy dulce.',
+      Description:'Buen vino para ocasiones especiales..',
       rating:"3"
     },
    
@@ -77,7 +77,136 @@ export const Wines = [
       Description:'De mis primeros Douro que probé y super recomendado.',
       Title:'Meandro do Vale Meão 2021' , 
       rating:'5'
-    }
+    }, 
+
+    {
+   id:'10',
+  img:'https://www.costco.com.mx/medias/sys_master/products/hd1/h04/139767050534942.jpg',
+  Description:'Mi primo me recomendo y tambien creo que es un vino normal pero bueno para el dia a dia.',
+  Title:'Colossal Reserva',
+  rating:'3'
+
+
+
+    },
+
+  {
+    id:'11',
+    img:'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSBOfgCTmZk5RU7UQiOoUKjX53jdlLvMN0f8z0vV2zZTbfAVhrpUOJv6WPKz6DX4yDlhWZrC5-NJ76pbWy5zEY3qv6aSaXLWTW3_XyV_8jIKIYWytWZVzvKIdM20rm0OwQQrEzsHkGFquE&usqp=CAc',
+    Description:'Vino blanco normal, se puede beber. ',
+    Title:'Vinha do Monte Branco',
+    rating:'2'
     
-    
+  },
+  
+
+  {
+    id:'12',
+    img:'https://winestuff.pt/cdn/shop/files/55.01976-01-quinta-do-cotto-reserva-tinto-2019_grande.png?v=1725156154',
+    Description:'Debo darle otra oportunidad a este vino, no me gusto mucho ',
+    Title:'Quinta Do Cotto ',
+    rating:'2'
+
+  },
+
+
+  {
+    id:'13',
+    img:'https://www.portugalvineyards.com/97017/altano-white-2018.jpg',
+    Description:' no me gusto ',
+    Title:'Altano White 2023',
+    rating:'1'
+
+  },
+
+  {
+    id:'14',
+    img:'https://adegademoncao.pt/app/uploads/2020/08/muralhas-2.jpg',
+    Description:'No soy muy fan del vino verde, pero este vale la pena. ',
+    Title:'Muralhas Monção',
+    rating:'5'
+
+  },
+  {
+    id:'15',
+    img:'https://www.castelares.com/wp-content/uploads/2016/03/reserva_tinto.png',
+    Description:'No recuerdo el sabor, pero si lo prueban me pueden avisar. ',
+    Title:'Quinta dos castelares',
+    rating:'3'
+
+  },
+
+  {
+    id:'16',
+    img:'https://haywines.co.uk/cdn/shop/products/PO-Papa-Figos-Blanco-1.jpg?v=1653485018',
+    Description:'Dicen que el tinto es mucho mejor, el blanco no me gusto. ',
+    Title:'Papa Figos Blanco',
+    rating:'2'
+
+  },
+  {
+    id:'17',
+    img:'https://static.granvine.com/media/catalog/product/cache/bc34a91f8370f66a44a1503aac167ba7/q/u/quinta-dos-termos-reserva-touriga-nacional-tinto-2021-front-141234.png',
+    Description:'Me gusto, recomendable ',
+    Title:'Quinta dos Termos Reserva Touriga Nacional Tinto 2021',
+    rating:'5'
+
+  },
+
+  {
+    id:'18',
+    img:'https://thesecretvine.com/cdn/shop/files/ColossB_900x.png?v=1689675535',
+    Description:'No me gusto ',
+    Title:'Colossal Reserva Branco',
+    rating:'2'
+
+  },
+
+  {
+    id:'19',
+    img:'https://winehouseportugal.com/10671-home_default/adega-de-borba-rotulo-de-cortica-reserva-2018-vino-tinto.jpg',
+    Description:'Uno de mis favoritos, recomendable ',
+    Title:'Adega de Borba Reserva 2018 Vino Tinto',
+    rating:'4'
+
+  },
+
+
+  {
+    id:'20',
+    img:'https://static.granvine.com/media/catalog/product/cache/bc34a91f8370f66a44a1503aac167ba7/c/a/catarina-branco-2023-back-155152.png',
+    Description:'Muy dulce, no me gusto ',
+    Title:'Catarina Blanco 2023',
+    rating:'2'
+
+  },
+
+  {
+    id:'21',
+    img:'https://portugalgetwine.com/3517-thickbox_default/coutada-velha-signature-red-wine.jpg',
+    Description:'Coutada Velha Signature',
+    Title:'Catarina Blanco 2023',
+    rating:'3'
+
+  },
+
+  {
+    id:'22',
+    img:'https://valledearas.com/2119-large_default/vinto-tinto-crianza-2016-pesquera.jpg',
+    Description:'Excelente vino tinto',
+    Title:'Pesquera Crianza 2016',
+    rating:'4'
+
+  },
+
+  {
+    id:'23',
+    img:'https://images.vivino.com/thumbs/sgG4xA8lQdOPmDJVWAF33A_150x200.jpg',
+    Description:'No me gusto',
+    Title:'Tapada das Lebres de Arraiolos Premium Blanco',
+    rating:'2'
+
+  },
+
+
     ]; 
