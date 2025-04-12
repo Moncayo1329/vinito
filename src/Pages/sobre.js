@@ -20,8 +20,8 @@ function About(){
     boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
     transition: 'transform 0.3s ease, box-shadow 0.3s ease'  }} 
    />
-  <p style={{ color: '#46526f' }}>Vinito es una website donde puedes ver mi viaje a través de una de mis pasiones:<br/> la degustación de vino.
-  Podrás ver los vinos que voy tomando cada semana y mis futuras compras.<br/> Si quieres hacer alguna sugerencia o recomendarme algo, ¡este es el lugar!</p>
+  <p style={{ color: '#46526f' }}>Vinito es una website donde puedes ver mi viaje a través de una de mis pasiones:<br/>la degustación de vino.
+  <br/>Podrás ver los vinos que voy tomando cada semana y mis futuras compras.<br/> Si quieres hacer alguna sugerencia o recomendarme algo.<br/> ¡este es el lugar!</p>
 </div>
 
 

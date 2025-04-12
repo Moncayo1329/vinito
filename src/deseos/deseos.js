@@ -63,6 +63,15 @@ Title:"CVNE Imperial Gran Reserva 2017"
                     
                     
                     },
+
+                    {
+
+                        id:'8',
+                        img:'https://static.granvine.com/media/catalog/product/cache/bc34a91f8370f66a44a1503aac167ba7/v/a/vallado-tinto-2022-front-147772.png',
+                        Title:"Vallado Tinto 2022"
+                        
+                        
+                        },
     
 
 ]

@@ -184,8 +184,8 @@ export const Wines = [
   {
     id:'21',
     img:'https://portugalgetwine.com/3517-thickbox_default/coutada-velha-signature-red-wine.jpg',
-    Description:'Coutada Velha Signature',
-    Title:'Catarina Blanco 2023',
+    Description:'Vino normal, nada especial',
+    Title:'Coutada Velha Signature',
     rating:'3'
 
   },
